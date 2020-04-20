@@ -1,2 +1,4 @@
 CONFIG.py
 venv/*
+.idea/*
+.DS_Store
